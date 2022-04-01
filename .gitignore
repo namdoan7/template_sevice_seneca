@@ -1,0 +1,12 @@
+/node_modules
+package-lock.json
+.idea/
+/app/config
+/playground
+logs
+*.log
+npm-debug.log*
+.env
+yarn.lock
+yarn-error.log
+/downloads
